@@ -4,7 +4,7 @@ Um guia visual e interativo de CSS — do zero ao olho de designer.
 
 Criado com auxílio do [Claude](https://claude.ai) (Anthropic) para fins **100% didáticos**.
 
-<a href="https://fundamentos-css.netlify.app/#pseudo">Clique aqui para acessar!</a>
+<a href="https://fundamentos-css.netlify.app/" target="_blank">Clique aqui para acessar!</a>
 
 ---
 
@@ -73,7 +73,7 @@ Nenhuma biblioteca externa de JS ou framework CSS foi utilizada.
 
 ## 🚀 Como usar
 
-1. Clone/baixe o repositório ou <a href="https://fundamentos-css.netlify.app/#pseudo">Clique aqui para acessar!</a>
+1. Clone/baixe o repositório ou <a href="https://fundamentos-css.netlify.app/" target="_blank">Clique aqui para acessar!</a>
 2. Abra `fundamentos-css.html` diretamente no browser
 3. Navegue pelas seções usando a navbar
 4. **Abra o DevTools** (F12) e inspecione os elementos enquanto lê — é assim que o aprendizado acontece de verdade
